@@ -12,3 +12,4 @@ function dog(){
 }
 dog();
 dog();
+dog();
